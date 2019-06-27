@@ -1,0 +1,27 @@
+"Please write a command-line program to compute the value of an option-free coupon (bullet) bond, using a
+discounted cash flow model.:
+
+1. We know how to write a command-line program. 
+2. How do we compute the value of an option-free coupon (bullet bond)?
+3. What is a bullet bond?
+4. What is a discounted cash flow model?
+5. How does it all tie together?
+
+
+
+
+
+
+1. As stated this is simply by selecting in my visual studio ide that I want to work with a CLI interface and that is what
+I wish to program with, all I have to do is input the name of the file. 
+
+
+What the hell is a bond?
+
+Think of a bond as a piece of paper that has the words I.O.U written on it, this bond or IOU has the details 
+of the lender and borrower and the terms of how payment will be made.
+
+Bonds are used by companies, municipalities, states, and sovereign governments to finance projects and operations.
+
+Bonds are units of corporate or gov debt and can be tradeable. 
+
